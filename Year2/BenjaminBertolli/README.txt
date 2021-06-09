@@ -1,0 +1,1 @@
+for the text box brief, please don't add any letters in the inspector, only add AFTER you run the program.
